@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recuperacion_Login</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrar">Registrar</string>
+    <string name="bienvenido">Bienvenido a Facebook</string>
+</resources>
